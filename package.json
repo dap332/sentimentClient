@@ -1,0 +1,22 @@
+{
+  "name": "sentimentclient",
+  "version": "1.0.0",
+  "description": "Client to test sentimentAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client",
+    "http",
+    "yelp",
+    "news",
+    "sentiment",
+    "analysis"
+  ],
+  "author": "Dhruv Patel",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1"
+  }
+}
